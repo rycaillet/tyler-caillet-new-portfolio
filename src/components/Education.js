@@ -54,22 +54,12 @@ const Education = () => {
                 info="Full-stack software engineering immersive student in an intensive, 24-week, 450+ hour program focused on product development fundamentals, object-oriented programming, MVC frameworks, data modeling, and team collaboration strategies. Developed a portfolio of individual and group projects." 
                 
                 />
-                                {/* <Details 
-                type="Bachelor Of Science In Computer Science" 
-                time="2016-2020"
-                place="Massachusetts Institute Of Technology (MIT)"
-                info="Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial 
-                Intelligence." 
-                
+                <Details
+                type="Web App Development"
+                time="2023-2023"
+                place="Cornell University"
+                info="Relevant courses included programs with control flow, how to write functions to automate repetitive tasks, write programs to work with databases, develop web interfaces with online protocols, and create interactive websites"
                 />
-                                <Details 
-                type="Bachelor Of Science In Computer Science" 
-                time="2016-2020"
-                place="Massachusetts Institute Of Technology (MIT)"
-                info="Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial 
-                Intelligence." 
-                
-                /> */}
 
 
             </ul>
