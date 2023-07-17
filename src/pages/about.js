@@ -50,14 +50,14 @@ const about = () => {
         <div className='grid w-full grid-cols-8 gap-16 sm:gap-8'>
            <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
             <h2 className='mb-4 text-1g font-bold uppercase text-dark/75 dark:text-light/75'>About Me</h2>
-            <p className='font-medium'>Hi, I'm Tyler Caillet, a software engineer and web developer with a passion for creating beautiful, functional, 
+            <p className='font-medium'>Hi, I&apos;m Tyler Caillet, a software engineer and web developer with a passion for creating beautiful, functional, 
 and user-centered digital experiences. With a hunger for knowledge in the field. I am always looking for 
 new and innovative ways to bring my creativity to life.
             </p>
-            <p className='my-4 font-medium'>I believe that design is about more than just making things look pretty it's about solving problems and 
+            <p className='my-4 font-medium'>I believe that design is about more than just making things look pretty it&apos;s about solving problems and 
 creating intuitive, enjoyable experiences for users. 
             </p>
-            <p className='font-medium'>Whether I'm working on a website, mobile app, or 
+            <p className='font-medium'>Whether I&apos;m working on a website, mobile app, or 
 other digital product, I bring my commitment to project excellence and user-centered thinking to 
 everything I work on. I look forward to the opportunity to bring my skills and passion to your next project.
             </p>
