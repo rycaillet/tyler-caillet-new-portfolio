@@ -45,6 +45,7 @@ Explore my latest projects, showcasing my expertise in React.js and web developm
                     border-2 border-solid border-transparent hover:border-dark
                     dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light hover:dark:border-light
                     md:p-2 md:px-4 md:text-base
+                    sm:text-base xs:text-base
                     '
                     >Resume <LinkArrow className={"w-6 ml-1"}/>
                     
